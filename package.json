@@ -25,6 +25,7 @@
     "prisma": "^6.19.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.11"
+    "nodemon": "^3.1.11",
+    "uglify-js": "^3.19.3"
   }
 }
